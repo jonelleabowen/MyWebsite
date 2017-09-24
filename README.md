@@ -1,2 +1,2 @@
-# jonellebowen.github.io
+# MyWebsite
 All the files for my website
